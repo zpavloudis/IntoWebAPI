@@ -2,3 +2,4 @@
 venv/
 .azure/
 .vscode/
+__pycache__
