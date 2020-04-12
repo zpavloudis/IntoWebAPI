@@ -1,0 +1,4 @@
+# Ignore venv - have requirements.txt for this
+venv/
+.azure/
+.vscode/
