@@ -3,3 +3,4 @@ venv/
 .azure/
 .vscode/
 IntoWebAPI/__pycache__/
+__pycache__/
