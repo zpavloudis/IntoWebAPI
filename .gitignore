@@ -2,4 +2,4 @@
 venv/
 .azure/
 .vscode/
-__pycache__
+IntoWebAPI/__pycache__/
